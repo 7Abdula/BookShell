@@ -1,0 +1,25 @@
+.post {
+  text-align: left;
+  margin: 32px 0;
+}
+
+.post .wrapper {
+  max-width: 680px;
+}
+
+.post-pic {
+  width: 100%;
+  height: auto;
+  margin: 16px 0 24px;
+}
+
+.post p {
+  line-height: 24px;
+  margin-bottom: 16px;
+}
+
+.qoute {
+  background-color: #eee;
+  padding: 16px;
+  margin-bottom: 24px;
+}
